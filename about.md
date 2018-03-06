@@ -16,3 +16,4 @@ You can find the source code for Jekyll at GitHub:
 
 
 [jekyll-organization]: https://github.com/jekyll
+[Vishal Salunke.JPG](/uploads/Vishal%20Salunke.JPG)
