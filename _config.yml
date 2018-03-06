@@ -10,8 +10,8 @@ collections:
     output: true
 email: salunkevishal05@gmail.com
 description: we will test and understand jekyll working stuff..
-baseurl: ''
-url: ''
+baseurl: 
+url: 
 twitter_username: 
 github_username: VishalSalunke
 markdown: kramdown
